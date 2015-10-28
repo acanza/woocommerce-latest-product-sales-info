@@ -21,4 +21,5 @@ To install, follow the steps below:
 4. Enjoy! :-)
 
 == Contributing to WooCommerce Latest Product Sales Info ==
+
 If you have a patch, or stumbled upon an issue with WooCommerce Latest Product Sales Info core, you can contribute this back to the code. If you have some suggestion, you don't hesitate contact me throught *soporte@woodemia.com*
